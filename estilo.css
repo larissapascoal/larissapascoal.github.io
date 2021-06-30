@@ -1,0 +1,174 @@
+
+.bg_video{
+	position: fixed; 
+	right: 0; 
+	bottom: 0;
+	min-width: 100%; 
+	min-height: 100%;
+	width: auto; 
+	height: auto; 
+	z-index: -1000;
+	background: url no-repeat;
+	background-size: cover; 
+}
+
+#title {
+    
+    font-family:sans-serif; /*fonte*/
+    
+    text-align: center; /*lugar*/
+    
+    color: rgba(255, 255, 255, 0.973);
+
+    background-color: rgba(30, 39, 39, 0.788); /*cor de fundo*/
+
+    height: 90px;
+
+    /* width:900px; largura */
+
+    /* color: rgba(255, 255, 255, 0.726); */
+
+    /* height:100px; altura */
+  
+    /* margin-left: 150px; margem da borda */
+
+	/* border-radius: 75px; arredondado */
+    
+    /* border-style: bordas */
+}
+
+#Pontal{
+        width:600px; /*largura*/
+
+        height:840px; /*altura*/ 
+
+        background-color:#88754cce; /*fundo*/
+
+        border-radius: 10px; /*arredondado*/
+
+        text-align: center;
+
+        margin-left: 20px;
+       
+        position: absolute;
+
+        top: 170px;
+}
+
+#Ibirapuera{
+    margin-left: 650px; /*margem da borda*/
+
+    width:600px; /*largura*/
+
+    height:840px; /*altura*/ 
+
+    background-color:#4c6688e1; /*fundo*/
+
+    border-radius: 10px; /*arredondado*/
+
+    text-align: center;
+
+    position: absolute;
+    
+    top: 170px;
+    
+
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 60px;
+}
+
+#Pelourinho{
+    margin-left: 20px; /*margem da borda*/
+
+    width:600px; /*largura*/
+
+    height:920px; /*altura*/ 
+
+    background-color:#a34e4ee1; /*fundo*/
+
+    border-radius: 10px; /*arredondado*/
+
+    text-align: center;
+
+    position: absolute;
+
+    top: 1150px;
+    
+}
+
+#Porto{
+    margin-left: 650px; /*margem da borda*/
+
+    width:600px; /*largura*/
+
+    height:920px; /*altura*/ 
+
+    background-color:#49875ee1; /*fundo*/
+
+    border-radius: 10px; /*arredondado*/
+
+    text-align: center;
+
+    position: absolute;
+    
+    top: 1150px;
+    
+}
+
+#Gruta{
+    margin-left: 20px; /*margem da borda*/
+
+    width:600px; /*largura*/
+
+    height:820px; /*altura*/ 
+
+    background-color:#356d6fe1; /*fundo*/
+
+    border-radius: 10px; /*arredondado*/
+
+    text-align: center;
+
+    position: absolute;
+
+    top: 2150px;
+}
+
+#Chapada{
+    margin-left: 650px; /*margem da borda*/
+
+    width:600px; /*largura*/
+
+    height:820px; /*altura*/ 
+
+    background-color:#946b50e1; /*fundo*/
+
+    border-radius: 10px; /*arredondado*/
+
+    text-align: center;
+
+    position: absolute;
+    
+    top: 2150px;
+}
+
+#Me{
+    font-size: 25px;
+    
+    font-family:sans-serif;
+
+    background-color:#292929d7;
+
+    text-align: center;
+
+    color: rgb(255, 255, 255);
+
+    position: absolute;
+
+    top: 3150px;
+}
